@@ -15,8 +15,8 @@
 ## 📊 GitHub Stats
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=inactive0073&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inactive0073&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 *(Инструмент: GitHub Readme Stats — динамические SVG‑картки с вашими статистиками — :contentReference[oaicite:0]{index=0})*
