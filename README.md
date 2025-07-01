@@ -12,11 +12,35 @@
 
 ---
 
+---
+
+## 🐍 Python skills
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005F73?style=for-the-badge&logo=fastapi&logoColor=white)
+![Aiogram](https://img.shields.io/badge/Aiogram-4B0082?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-8B0000?style=for-the-badge)
+![Alembic](https://img.shields.io/badge/Alembic-6A5ACD?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![AsyncIO](https://img.shields.io/badge/asyncio-A020F0?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/Pydantic-6CAEE0?style=for-the-badge)
+
+---
+
+## 🐳 DevOps & Infrastructure
+
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker--Compose-000000?style=for-the-badge&logo=docker&logoColor=white)
+![NATS](https://img.shields.io/badge/NATS-3A8EE6?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub--Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+
 ## 📊 GitHub Stats
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=inactive0073&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inactive0073&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 *(Инструмент: GitHub Readme Stats — динамические SVG‑картки с вашими статистиками — :contentReference[oaicite:0]{index=0})*
