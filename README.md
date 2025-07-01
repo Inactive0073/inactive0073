@@ -1,59 +1,52 @@
-<!-- Заголовок с приветствием и коротким описанием -->
-# 👋 Привет, я Алексей Юманов!
-
-Я — инженер по сетевым технологиям, стремлюсь развиваться в DevOps и автоматизации инфраструктуры.
+# 👋
 
 ---
 
-## 🔧 Что я делаю
-- Настраиваю и администрирую сети (BGP, OSPF, VPN, VLAN)
-- Автоматизирую инфраструктуру с помощью Ansible и Terraform
-- Работаю с облачными сервисами AWS и Azure
-- Внедряю CI/CD (Jenkins, GitLab CI/CD)
-- Мониторю системы с Prometheus, Grafana и ELK Stack
-- Разрабатываю сетевые и DevOps решения на Python и Bash
+**Разработка & DevOps**  
+- Контейнеризация: Docker, Docker Compose  
+- Веб: nginx as reverse-proxy  
+- Backend: FastAPI, aiogram  
+- Очереди: NATS (JetStream)  
+- БД: PostgreSQL + SQLAlchemy + Alembic  
+- CI/CD: GitHub Actions  
 
 ---
 
-## 📊 Статистика GitHub
+## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
----
-
-## 🚀 Проекты
-
-| Проект | Описание |
-|-------|----------|
-| **network-ansible** | Ansible playbooks для настройки маршрутизаторов и коммутаторов |
-| **infra-terraform** | Terraform-модуль для развёртывания VPC, подсетей и сервисов в AWS |
-| **ci-cd-pipeline** | Пример CI/CD пайплайна на Jenkins для контейнерных приложений |
+*(Инструмент: GitHub Readme Stats — динамические SVG‑картки с вашими статистиками — :contentReference[oaicite:0]{index=0})*
 
 ---
 
-## 📫 Связаться со мной
+## 🚀 Основные проекты
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ВашеИмя-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Telegram](https://img.shields.io/badge/Telegram-@ваш_логин-blue?logo=telegram)](https://t.me/ваш_логин)
-[![Email](https://img.shields.io/badge/Email-ваш.email@example.com-red?logo=gmail)](mailto:ваш.email@example.com)
-
----
-
-## ✨ Интересные дополнения
-
-- 🎯 **Счётчик посещений профиля** (visitor badge) — показывает, сколько человек заглянуло на страницу  
-- 📈 **Динамические графики** активности и языков — обновляется автоматически, привлекает внимание :contentReference[oaicite:1]{index=1}
+- **Network Automation** — Ansible‑скрипты для настройки маршрутизаторов  
+- **Telegram Bot** — боты на aiogram + FastAPI + Docker + NATS  
+- **Infrastructure as Code** — конфигурации для PostgreSQL/CI/CD через GitHub Actions  
 
 ---
 
-### 🛠 Инструменты для README профиля
+## 📫 Контакты
 
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) — для отображения статистики  
-- [GitHub Profile Views Counter](https://github.com/arturssmirnovs/github-profile-views-counter) — счётчик просмотров  
-- Использование бейджей и SVG — придаёт привлекательный и информативный вид профилю :contentReference[oaicite:2]{index=2}
+[![Telegram](https://img.shields.io/badge/Telegram-@inactive0073-blue?logo=telegram)](https://t.me/inactive0073)  
+[![Email](https://img.shields.io/badge/Email-inactive0073@gmail.com-red?logo=gmail)](mailto:inactive0073@gmail.com)
 
 ---
 
-⚡ **Совет:** начните со структуры, как здесь, затем добавьте динамические элементы (статистика, игры, visitor badges) постепенно. Это прекрасный способ привлечь внимание и показать свою активность. Удачи!
-::contentReference[oaicite:3]{index=3}
+## 📚 Навыки
+
+### Сетевые технологии
+TCP/IP · BGP · VPN · VLAN
+
+### Разработка и инфраструктура
+nginx · Docker · Docker Compose · FastAPI · aiogram · NATS · PostgreSQL · SQLAlchemy · Alembic · GitHub Actions
+
+### Скрипты и прочее
+Python · Bash · Git
+
+---
